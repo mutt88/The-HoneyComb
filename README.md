@@ -13,25 +13,25 @@ The HoneyComb developers work hard to make it support a large range of devices a
 The HoneyComb is created by users for users and we welcome every contribution. There are no highly paid developers or poorly paid support personnel. There are only users who have seen a problem and done their best to fix it. This means The HoneyComb will always need the contributions of users like you.
 
 ## How can you get involved?:
-Coding: Developers can help The HoneyComb by fixing a bug, adding new features, making our technology smaller and faster and making development easier for others. The HoneyComb code-base consists mainly of C++. For more information, please have a look at our Contributing Guide.
+* Coding: Developers can help The HoneyComb by fixing a bug, adding new features, making our technology smaller and faster and making development easier for others. The HoneyComb code-base consists mainly of C++. For more information, please have a look at our Contributing Guide.
 
-Helping users: Our support process relies on enthusiastic contributors like you to help others get the most out of The HoneyComb. The #1 priority is always answering questions in our support forums. Everyday new people discover “Go BB Design”, and everyday they are virtually guaranteed to have questions.
+* Helping users: Our support process relies on enthusiastic contributors like you to help others get the most out of The HoneyComb. The #1 priority is always answering questions in our support forums. Everyday new people discover “Go BB Design”, and everyday they are virtually guaranteed to have questions.
 
-Localization: Translate “Go BB Design”, add-ons and the HoneyComb into your native language.
+* Localization: Translate “Go BB Design”, add-ons and the HoneyComb into your native language.
 
 Add-ons: Add-ons, much like the HoneyComb, are what make “Go BB Design” the most extensible and customizable design hub available. Get started building an add-on or add to the HoneyComb.
 
-Documentation: “Go BB Design” wiki pages are the hub for information about “Go BB Design”, The HoneyComb, The Hive, and surrounding ecosystem. Help make our documentation better, by writing new content or correcting existing material.
+* Documentation: “Go BB Design” wiki pages are the hub for information about “Go BB Design”, The HoneyComb, The Hive, and surrounding ecosystem. Help make our documentation better, by writing new content or correcting existing material.
 
-Not enough free time?
+### Not enough free time?
 
 No problem! There are other ways to help “Go BB Design” The HoneyComb.
 
-Spread the word: Share “Go BB Design” with the world! Tell your friends and family about how “Go BB Design” creates an amazing remodel experience. Stay up to date on the latest stories about “Go BB Design” reading our News section, follow us on Twitter and Facebook, or star The HoneyComb's repo if you want to follow development.
+* Spread the word: Share “Go BB Design” with the world! Tell your friends and family about how “Go BB Design” creates an amazing remodel experience. Stay up to date on the latest stories about “Go BB Design” reading our News section, follow us on Twitter and Facebook, or star The HoneyComb's repo if you want to follow development.
 
-Donate: We are always happy to receive a donation. Donations are typically used for travel to attend conferences, any necessary paperwork and legal fees. Donations may also be used to purchase necessary hardware and licenses for developers, along with t-shirts, stickers, and other accessories.
+* Donate: We are always happy to receive a donation. Donations are typically used for travel to attend conferences, any necessary paperwork and legal fees. Donations may also be used to purchase necessary hardware and licenses for developers, along with t-shirts, stickers, and other accessories.
 
-Buy “Go BB Design” merchandise: Purchasing “Go BB Design” gear helps just as much as a donation, and you get something in return! Checkout our store for “Go BB Design” branded gear. We regularly add new products so check back often.
+* Buy “Go BB Design” merchandise: Purchasing “Go BB Design” gear helps just as much as a donation, and you get something in return! Checkout our store for “Go BB Design” branded gear. We regularly add new products so check back often.
 
 Building
 “Go BB Design” The HoneyComb uses Visual Studios as it's building system but instructions are highly dependent on your operating system and target platform.
