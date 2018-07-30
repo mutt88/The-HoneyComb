@@ -43,4 +43,5 @@ All the contributors. Big or small a change, it does make a difference.
 All the developers that write the fantastic software and libraries that “Go BB Design” uses. We stand on the shoulders of giants.
 Our fantastic community for the never ending support, inspiration, feedback, and for keeping us on our toes when we screw up!
 Our sponsors. Without them, keeping a huge project like this alive would be next to impossible.
-License BB-Hive, Version 1.0 Licensed. You may use, distribute and copy it under the license terms.
+
+*License BB-Hive, Version 1.0 Licensed. You may use, distribute and copy it under the license terms.
